@@ -1,0 +1,2 @@
+Esempio di file in controllo di versione
+seconda riga
